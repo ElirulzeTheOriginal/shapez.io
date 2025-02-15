@@ -92,3 +92,10 @@ function bootApp() {
 }
 
 window.addEventListener("load", bootApp);
+
+document.addEventListener("DOMContentLoaded", function() {
+    const bgVideo = document.getElementById("bgVideo");
+    if (bgVideo) {
+        bgVideo.play();
+    }
+});
