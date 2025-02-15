@@ -1,4 +1,6 @@
-import "./core/polyfills";
+git status
+git add .
+git commit -m "Resolve any pending changes"import "./core/polyfills";
 import "./core/assert";
 import "./core/error_handler";
 
