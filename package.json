@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "@babel/core": "^7.5.4",
-        "canvas": "^2.8.0",
+        "canvas": "^2.11.2",
         "yawn-yaml": "^1.5.0"
     }
 }
